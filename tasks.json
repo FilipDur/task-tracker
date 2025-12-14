@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Běhat",
+      "created": "15.12.2025 10:51",
+      "completed": false,
+      "completed_at": null,
+      "priority": "střední",
+      "time_spent": 0
+    }
+  ],
+  "last_save": "14.12.2025 14:30:31"
+}

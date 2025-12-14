@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Běhat",
+      "created": "15.12.2025 10:51",
+      "completed": true,
+      "completed_at": "15.12.2025 10:53",
+      "priority": "střední",
+      "time_spent": 0
+    },
+    {
+      "id": 2,
+      "name": "Uklidit",
+      "created": "15.12.2025 10:52",
+      "completed": false,
+      "completed_at": null,
+      "priority": "vysoká",
+      "time_spent": 0
+    }
+  ],
+  "export_date": "15.12.2025 10:53:38"
+}
